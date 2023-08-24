@@ -20,3 +20,6 @@ Define the parameters of the autoencoder, including the number of neurons in the
 -  Next will calculate the performance of the autoencoder on the test data.
 -  Finally, use the autoencoder to detect anomalies in input or test images by calculating the reconstruction error and comparing it to a threshold value.
 
+# Huggingface Demo 
+[Demo - Anomaly Detection using Convolutional Autoencoder](https://huggingface.co/spaces/Charmi06/Anomaly)
+
